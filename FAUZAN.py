@@ -21,7 +21,7 @@ check = 0
 result = 0
 def masuk():
         print('\n\n\t\t≺ \033[1;36mFACEBOOK LOGIN\033[0m ≻\n\n')
-        print("Bingung ? cek Channel Master termux indonesia")
+        print("Bingung ? TANYA AKU!!! (F)")
         try:
                 cek = open("cookies").read()
         except FileNotFoundError:
@@ -157,8 +157,8 @@ if __name__ == '__main__':
                 print("\033[1;37m / /|  __/ |_| || (_| | | | | | | |_| \__ \ ")
                 print('\033[1;37m/____\___|\__|\__\__,_|_| |_| |_|\__,_|___/')
                 print('\033[1;34m=========================')
-                print('\033[1;33mAuthor: \033[1;36mZettamus')
-                print('\033[1;33mRe edit&Translate: \033[1;36mRianto')
+                print('\033[1;33mAuthor: \033[1;36mMRX')
+                print('\033[1;33mBy: \033[1;36mREZI FAUZAN')
                 print('\033[1;34m=========================')
                 print('\033[1;31m[\033[1;33m1\033[1;31m] \033[1;36mDaftar Teman')
                 print('\033[1;31m[\033[1;33m2\033[1;31m] \033[1;36mDari Like ')
